@@ -1,0 +1,2 @@
+# stock_predictor
+pytorchによってtransformerモデルを訓練し、日経株式を予測するプログラムです。 Transformer_stock_predict.ipynbで執行します。
