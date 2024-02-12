@@ -8,4 +8,4 @@
 ｜インプット：過去の株価
 ｜アウトプット：未来の株価
 ｜方法：transformerを訓練してモデルを手にいれる。
-｜ファイル：
+｜ファイル：Transformer_stock_predict.ipynbは執行ファイルです。nikkei1.txtとnikkei2.txtは予測する銘柄およびその銘柄コードのリストです。
